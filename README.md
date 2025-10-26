@@ -1,16 +1,11 @@
-# ProLUG Course Books
+# ProLUG Course Work
 
-This is a collection of all course books produced by the Professional Linux Users Group (ProLUG).
+This is my personal completion of the ProLUG content graciously provided free of charge by Het_Tanis and his crack team of engineers.
+More information about them is included below
 
-- [Prolug Course Books](https://professionallinuxusersgroup.github.io/course-books/)
+Note: This website is a fork of the official ProLUG course-booke website linked below.
 
-Previously these were in separate repositories:
-
-- [Linux Administration Course](https://github.com/ProfessionalLinuxUsersGroup/lac)
-- [Security Engineering Course](https://github.com/ProfessionalLinuxUsersGroup/psc)
-- [Automation Engineering Course](https://github.com/ProfessionalLinuxUsersGroup/pcae)
-
-We decided to consolidate these repositories into a monorepo for simplicity and make it easier for prospective contributors.
+# About ProLUG
 
 ## Goals
 
@@ -46,24 +41,16 @@ Outlined below are a set of objectives this repository attempts to provide.
     - Troubleshooting and system benchmarking
 - Systems Automation and implementation
 
-## To Begin Contributing
+## ProLUG Course Books
 
-ProLUG asks all contributors to understand and adhere to the principles and guidelines detailed
-in the [contributing.md](https://github.com/ProfessionalLinuxUsersGroup/course-books/blob/main/src/contributing.md) markdown file.
-Contributors found significantly deviating from these policies will have their work discarded appropriately.
+This is a collection of all course books produced by the Professional Linux Users Group (ProLUG).
 
-Contributors will be provided with supplementary material to begin building out unit worksheet labs
-and templates within the project managed issues board.
+- [Prolug Course Books](https://professionallinuxusersgroup.github.io/course-books/)
 
-To start contributing:
+Previously these were in separate repositories:
 
-- Understand the repository objectives
-- Read the [contributing.md](https://github.com/ProfessionalLinuxUsersGroup/course-books/blob/main/src/contributing.md) markdown
-- Look over the [template pages wiki](https://github.com/ProfessionalLinuxUsersGroup/course-books/wiki), or directly here:
-  - Pages: [intro](https://github.com/ProfessionalLinuxUsersGroup/course-books/blob/main/ref/intro.md),
-    [bonus](https://github.com/ProfessionalLinuxUsersGroup/course-books/blob/main/ref/ub.md),
-    [lab](https://github.com/ProfessionalLinuxUsersGroup/course-books/blob/main/ref/ulab.md),
-    [worksheet](https://github.com/ProfessionalLinuxUsersGroup/course-books/blob/main/ref/uws.md)
-- Request to be assigned a task within the repo [Issues](https://github.com/ProfessionalLinuxUsersGroup/course-books/issues) tab
-- Fork this repository and create a development branch for eventual pull requests
-- Strictly adhere to contemporary GitHub contribution decorum to facilitate the version control process
+- [Linux Administration Course](https://github.com/ProfessionalLinuxUsersGroup/lac)
+- [Security Engineering Course](https://github.com/ProfessionalLinuxUsersGroup/psc)
+- [Automation Engineering Course](https://github.com/ProfessionalLinuxUsersGroup/pcae)
+
+We decided to consolidate these repositories into a monorepo for simplicity and make it easier for prospective contributors.
