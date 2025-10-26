@@ -1,7 +1,7 @@
-site_name: ProLUG Course Books
-site_url: http://professionallinuxusersgroup.github.io/course-books
+site_name: My ProLUG_coursework
+site_url: http://alexprocter.github.io/prolug_coursework
 repo_name: ProLUG Course Books
-repo_url: https://github.com/ProfessionalLinuxUsersGroup/course-books
+repo_url: https://github.com/AlexProcter/proLUG_coursework
 edit_uri: edit/main/docs
 theme:
   name: material
